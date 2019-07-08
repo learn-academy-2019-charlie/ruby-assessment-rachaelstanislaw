@@ -17,11 +17,11 @@ tempArray.map!{|i| i * 2}
 
 example = "hello"
 
-example.reverse()
+example.reverse
   returns: "olleh"
-example.capitalize()
+example.capitalize
   returns: "Hello"
-example.length()
+example.length
   returns: 5
 
 
